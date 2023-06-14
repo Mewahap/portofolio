@@ -100,7 +100,7 @@ header .navbar a:hover,
 }
 .info {
   margin-left: 8%;
-  margin-top: 20%;
+  margin-top: 15%;
 }
 .info h1 {
   font-size: 40px;
@@ -581,7 +581,7 @@ section {
 
 @media screen and (min-width: 1024px) {
   section {
-    padding: 3rem 0 2 rem;
+    padding: 3rem 0 2rem;
   }
 
   .custom {
